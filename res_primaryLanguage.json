@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "description_header": "Développeur web en quête de défis",
+    "description": "Après une première expérience professionnelle dans le médico-social, j’ai choisi de suivre ma passion pour le code et le développement web. Diplômé d’OpenClassrooms en 2024, je suis un développeur junior qui cherche à transformer sa soif d'apprendre et sa créativité en atouts pour des entreprises et clients. Je maîtrise les bases solides de technologies front-end et back-end, que je m’efforce chaque jour de perfectionner tout en apprenant de nouvelles compétences. Avec mon dynamisme, mon expérience en travail d’équipe et ma curiosité, je suis prêt à relever de nouveaux défis. En dehors du développement, je suis aussi musicien et sportif, ce qui nourrit ma rigueur et mon esprit d’initiative. À la recherche de mon premier emploi dans le développement web, je suis motivé pour apprendre, évoluer, et contribuer à des projets ambitieux. Habitant à Caen mais mobile, je serais ravi d’échanger avec vous. N’hésitez pas à me contacter !",
+    "cv": "Mon CV",
+    "section_name": {
+      "about": "À propos",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Expérience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Kasa",
+      "startDate": "2024",
+      "description": "Ma première expérience avec React. J'ai pu optimiser mes connaissances en JavaScript pour développer le front-end d'un site de location et mettre en place le routeur. J'ai également appris à créer des animations CSS ainsi que la syntaxe SASS.",
+      "images": [
+        "images/portfolio/kasa/kasa-accueil.jpg",
+        "images/portfolio/kasa/kasa-a-propos.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/kasa",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SASS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JSX"
+        }
+      ]
+    },
+    {
+      "title": "Mon vieux grimoire",
+      "startDate": "2024",
+      "description": "Ma première véritable expérience en back-end. J'ai pu utiliser Node.js via le framework Express pour déployer une base de données et mettre en place une API REST. Le résultat : un site de notation de livres, sur lequel un utilisateur peut se connecter puis ajouter et noter des livres.",
+      "images": [
+        "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-accueil.jpg",
+        "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-connexion.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/P7-Mon-vieux-grimoire",
+      "technologies": [
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "mongodb"
+        },
+        {
+          "class": "devicon-mongoose-original",
+          "name": "Mongoose"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "Nina Carducci",
+      "startDate": "2023",
+      "description": "L'objectif était ici d'optimiser le site d'une photographe, afin qu'il soit mieux référencé et accessible pour tout public. Il fallut pour cela corriger et optimiser le code, améliorer le référencement local avec Schema.org, et user des bonnes pratiques d'accessibilité afin d'avoir un audit Lighthouse au vert.",
+      "images": [
+        "images/portfolio/nine-carducci/nina-carducci-portfolio.jpg",
+        "images/portfolio/nine-carducci/nina-carducci-a-propos.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/site-nina-carducci",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-chrome-plain",
+          "name": "Lighthouse"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "OpenClassrooms",
+      "title": "Formation développeur web",
+      "years": "2022-2024",
+      "mainTech": [],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Git",
+        "Figma",
+        "Slack",
+        "GitHub",
+        "Wakelet"
+      ]
+    }
+  ]
+}

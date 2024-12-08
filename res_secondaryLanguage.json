@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "description_header": "Web Developer Seeking New Challenges",
+    "description": "After an initial career in the social and healthcare sector, I decided to follow my passion for coding and web development. A graduate of OpenClassrooms in 2022, I am a junior developer eager to channel my creativity and thirst for learning into assets for businesses and clients. I have a strong foundation in both front-end and back-end technologies, which I strive to improve daily while acquiring new skills. With my energy, teamwork experience, and curiosity, I am ready to take on exciting challenges. Outside of development, I am also a musician and athlete, which enhances my discipline and initiative. Currently seeking my first position in web development, I am highly motivated to learn, grow, and contribute to ambitious projects. Based in Caen, I would be delighted to discuss how I can support your needs. You can find more information on my LinkedIn page. Feel free to get in touch!",
+    "cv": "My CV",
+    "section_name": {
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Kasa",
+      "startDate": "2024",
+      "description": "My first experience with React. I was able to optimize my JavaScript skills to develop the front-end of a rental website and set up the router. I also learned how to create CSS animations and the SASS syntax.",
+      "images": [
+        "images/portfolio/kasa/kasa-accueil.jpg",
+        "images/portfolio/kasa/kasa-a-propos.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/kasa",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SASS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JSX"
+        }
+      ]
+    },
+    {
+      "title": "Mon vieux grimoire",
+      "startDate": "2024",
+      "description": "My first real back-end experience. I was able to use Node.js with the Express framework to deploy a database and set up a REST API. The result: a book rating site where a user can log in, add, and rate books.",
+      "images": [
+        "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-accueil.jpg",
+        "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-connexion.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/P7-Mon-vieux-grimoire",
+      "technologies": [
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "mongodb"
+        },
+        {
+          "class": "devicon-mongoose-original",
+          "name": "Mongoose"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "Nina Carducci",
+      "startDate": "2023",
+      "description": "The goal here was to optimize a photographer's website to improve its SEO and make it more accessible to all audiences. This involved fixing and optimizing the code, enhancing local SEO with Schema.org, and applying accessibility best practices to achieve a green Lighthouse audit.",
+      "images": [
+        "images/portfolio/nine-carducci/nina-carducci-portfolio.jpg",
+        "images/portfolio/nine-carducci/nina-carducci-a-propos.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/site-nina-carducci",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-chrome-plain",
+          "name": "Lighthouse"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "OpenClassrooms",
+      "title": "Web Developper Training",
+      "years": "2020-2022",
+      "mainTech": [],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Git",
+        "Figma",
+        "Slack",
+        "GitHub",
+        "Wakelet"
+      ]
+    }
+  ]
+}
