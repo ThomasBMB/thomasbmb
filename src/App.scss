@@ -121,6 +121,17 @@ header h1 {
 	text-align: center;
 }
 
+.cv {
+	font-size: 15px;
+	display: inline-block;
+	padding: 10px 15px;
+	background-color: #1F1F1F;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	margin-top: 15px;
+}
+
 .foto img {
 	display: block;
 	width: 100%;
@@ -371,6 +382,7 @@ header h1 {
 	.portfolio .closeButtonResponsive {
 		display: block;
 	}
+
 	.portfolio .portfolio-item {
 		margin-bottom: 30px;
 	}

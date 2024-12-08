@@ -14,6 +14,7 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
+      var cv = this.props.resumeBasicInfo.cv;
     }
 
     return (
@@ -51,6 +52,16 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    <br />
+                    <a
+                      href="/CV-Thomas-Boudin.pdf"
+                      download="CV-Thomas-Boudin.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="cv"
+                    >
+                      {cv}
+                    </a>
                   </div>
                 </div>
               </div>
