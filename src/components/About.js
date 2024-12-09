@@ -54,7 +54,7 @@ class About extends Component {
                     {about}
                     <br />
                     <a
-                      href="/CV-Thomas-Boudin.pdf"
+                      href={`${process.env.PUBLIC_URL}/CV-Thomas-Boudin.pdf`}
                       download="CV-Thomas-Boudin.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
