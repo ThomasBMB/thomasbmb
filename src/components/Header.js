@@ -39,7 +39,7 @@ class Header extends Component {
         <div className="row aligner" style={{ height: '100%' }}>
           <div className="col-md-12">
             <div>
-              <img src="/loutre.jpg" alt="loutre" />
+              <img src="/loutre.png" alt="loutre" />
               <br />
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
