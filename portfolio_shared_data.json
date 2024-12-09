@@ -56,6 +56,11 @@
         "level": "75"
       },
       {
+        "name": "SASS",
+        "class": "devicon-sass-plain",
+        "level": "75"
+      },
+      {
         "name": "Gimp",
         "class": "devicon-gimp-plain",
         "level": "75"
