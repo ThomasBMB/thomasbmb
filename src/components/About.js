@@ -59,6 +59,7 @@ class About extends Component {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cv"
+                      aria-label="Télécharger mon CV"
                     >
                       {cv}
                     </a>

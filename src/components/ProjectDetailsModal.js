@@ -30,7 +30,7 @@ class ProjectDetailsModal extends Component {
         });
         if (this.props.data.images) {
           var img = images.map((elem, i) => {
-            return <div key={i} data-src={elem} />;
+            return <div key={i} data-src={elem} aria-label={`Image ${i + 1}`} />;
           });
         }
       }
@@ -43,7 +43,7 @@ class ProjectDetailsModal extends Component {
         centered
         className="modal-inside"
       >
-        <span onClick={this.props.onHide} className="modal-close">
+        <span onClick={this.props.onHide} className="modal-close" role="button" aria-label="Fermer la modal" tabIndex="0">
           <i className="fas fa-times fa-3x close-icon"></i>
         </span>
         <div className="col-md-12">
@@ -72,6 +72,7 @@ class ProjectDetailsModal extends Component {
               cssModule={[AwesomeSliderStyles, AwesomeSliderStyles2]}
               animation="scaleOutAnimation"
               className="slider-image"
+              aria-label="Galerie d'images du projet"
             >
               {img}
             </AwesomeSlider>
@@ -85,6 +86,7 @@ class ProjectDetailsModal extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="link-href"
+                  aria-label={`Lien vers ${title}`}
                 >
                   <i
                     className="fas fa-external-link-alt"
@@ -95,7 +97,7 @@ class ProjectDetailsModal extends Component {
             </h3>
             <p className="modal-description">{description}</p>
             <div className="col-md-12 text-center">
-              <ul className="list-inline mx-auto">{tech}</ul>
+              <ul className="list-inline mx-auto" aria-label="Technologies utilisées">{tech}</ul>
             </div>
           </div>
         </div>
