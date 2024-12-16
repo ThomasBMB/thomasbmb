@@ -42,6 +42,11 @@
         "level": "70"
       },
       {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "75"
+      },
+      {
         "name": "Express",
         "class": "devicon-express-original",
         "level": "75"
