@@ -12,30 +12,6 @@
   },
   "projects": [
     {
-      "title": "Kasa",
-      "startDate": "2024",
-      "description": "Ma première expérience avec React. J'ai pu optimiser mes connaissances en JavaScript pour développer le front-end d'un site de location et mettre en place le routeur. J'ai également appris à créer des animations CSS ainsi que la syntaxe SASS. La logique modulaire de React fut le principal défit de ce projet, puisque chaque composant doit être réutilisable et chaque fonctionnalité du site la plus modulable possible tout en veillant à la clarté du projet, ce qui fut optimisé avec l'aide de mon mentor. Le passage d'une logique CSS à une logique SASS a donné lieu à quelques problèmes de style le temps d'apréhender son fonctionnement.",
-      "images": [
-        "images/portfolio/kasa/kasa-accueil.jpg",
-        "images/portfolio/kasa/kasa-a-propos.jpg"
-      ],
-      "url": "https://github.com/ThomasBMB/kasa",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-sass-plain",
-          "name": "SASS"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JSX"
-        }
-      ]
-    },
-    {
       "title": "Mon vieux grimoire",
       "startDate": "2024",
       "description": "Ma première véritable expérience en back-end. J'ai pu utiliser Node.js via le framework Express pour déployer une base de données et mettre en place une API REST. Le résultat : un site de notation de livres, sur lequel un utilisateur peut se connecter puis ajouter et noter des livres. Avant d'en arriver à ce résultat, il fallut organiser le projet de manière modulable, notamment les différents middlewares. Le respect du Green Code est également au coeur de ce projet, ce qui a demandé une gestion particulière des ressources enregistrées telles que les images et leur enregistrement sur la base de données. L'utilisation de Mongoose fut également un axe important dans la gestion de MongoDB, notamment avec la mise en place de modèles de base de données cohérents. La collaboration avec d'autres élèves d'OpenClassrooms nous a permis franchir plusieurs obstacles comme la gestion du middleware Multer et la prise en charge des images.",
@@ -68,6 +44,30 @@
       ]
     },
     {
+      "title": "Kasa",
+      "startDate": "2024",
+      "description": "Ma première expérience avec React. J'ai pu optimiser mes connaissances en JavaScript pour développer le front-end d'un site de location et mettre en place le routeur. J'ai également appris à créer des animations CSS ainsi que la syntaxe SASS. La logique modulaire de React fut le principal défit de ce projet, puisque chaque composant doit être réutilisable et chaque fonctionnalité du site la plus modulable possible tout en veillant à la clarté du projet, ce qui fut optimisé avec l'aide de mon mentor. Le passage d'une logique CSS à une logique SASS a donné lieu à quelques problèmes de style le temps d'apréhender son fonctionnement.",
+      "images": [
+        "images/portfolio/kasa/kasa-accueil.jpg",
+        "images/portfolio/kasa/kasa-a-propos.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/kasa",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SASS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JSX"
+        }
+      ]
+    },
+    {
       "title": "Nina Carducci",
       "startDate": "2023",
       "description": "L'objectif était ici d'optimiser le site d'une photographe, afin qu'il soit mieux référencé et accessible pour tout public. Il fallut pour cela corriger et optimiser le code, améliorer le référencement local avec Schema.org, et user des bonnes pratiques d'accessibilité afin d'avoir un audit Lighthouse au vert.",
@@ -88,6 +88,57 @@
         {
           "class": "devicon-chrome-plain",
           "name": "Lighthouse"
+        }
+      ]
+    },
+    {
+      "title": "Architecte Sophie Bluel",
+      "startDate": "2023",
+      "description": "Création d'une page web dynamique en utilisant JavaScript et en communiquant avec une API. Mise en place d'une page de connexion pour l'administrateur et d'une modale permettant l'ajout de nouveaux médias.",
+      "images": [
+        "images/portfolio/sophie-bluel/sophie-bluel1.jpg",
+        "images/portfolio/sophie-bluel/sophie-bluel2.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/Portfolio-architecte-sophie-bluel",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-postman-plain",
+          "name": "Postman"
+        }
+      ]
+    },
+    {
+      "title": "Booki",
+      "startDate": "2022",
+      "description": "Page uniquement en HTML et CSS pour se familiariser avec les langages web. Mise en place de media queries pour rendre le tout responsive.",
+      "images": [
+        "images/portfolio/booki/booki1.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/agence-booki",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
         }
       ]
     }
