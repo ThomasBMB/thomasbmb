@@ -12,30 +12,6 @@
   },
   "projects": [
     {
-      "title": "Kasa",
-      "startDate": "2024",
-      "description": "My first experience with React. I was able to leverage my JavaScript skills to develop the front-end of a rental website and implement the router. I also learned how to create CSS animations and use SASS syntax. The modular logic of React was the main challenge of this project, as each component needed to be reusable and every site feature as modular as possible while maintaining project clarity, which was optimized with the help of my mentor. Transitioning from a CSS logic to a SASS-based approach led to some styling issues as I worked to understand its functionality.",
-      "images": [
-        "images/portfolio/kasa/kasa-accueil.jpg",
-        "images/portfolio/kasa/kasa-a-propos.jpg"
-      ],
-      "url": "https://github.com/ThomasBMB/kasa",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-sass-plain",
-          "name": "SASS"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JSX"
-        }
-      ]
-    },
-    {
       "title": "Mon vieux grimoire",
       "startDate": "2024",
       "description": "My first real experience in back-end development. I used Node.js with the Express framework to deploy a database and set up a REST API. The result: a book rating website where users can log in, add books, and rate them. To achieve this, the project had to be organized in a modular way, especially the various middleware components. Adhering to Green Code principles was also central to this project, requiring special attention to resource management, such as storing images and saving them in the database. The use of Mongoose was a key aspect in managing MongoDB, particularly in designing consistent database models. Collaboration with other OpenClassrooms students helped us overcome several challenges, such as managing the Multer middleware and handling images.",
@@ -64,6 +40,30 @@
         {
           "class": "devicon-nodejs-plain",
           "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "Kasa",
+      "startDate": "2024",
+      "description": "My first experience with React. I was able to leverage my JavaScript skills to develop the front-end of a rental website and implement the router. I also learned how to create CSS animations and use SASS syntax. The modular logic of React was the main challenge of this project, as each component needed to be reusable and every site feature as modular as possible while maintaining project clarity, which was optimized with the help of my mentor. Transitioning from a CSS logic to a SASS-based approach led to some styling issues as I worked to understand its functionality.",
+      "images": [
+        "images/portfolio/kasa/kasa-accueil.jpg",
+        "images/portfolio/kasa/kasa-a-propos.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/kasa",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SASS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JSX"
         }
       ]
     },
