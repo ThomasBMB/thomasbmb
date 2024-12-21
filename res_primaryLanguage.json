@@ -113,6 +113,81 @@
         "GitHub",
         "Wakelet"
       ]
+    },
+    {
+      "company": "Le Son Vert",
+      "title": "Musicien producteur",
+      "years": "2016-2022",
+      "mainTech": [],
+      "technologies": [
+        "Composition",
+        "Concerts",
+        "Réalisation de clips vidéos",
+        "Ableton",
+        "Premiere pro",
+        "Studio One",
+        "Cubase"
+      ]
+    },
+    {
+      "company": "Coallia",
+      "title": "Services sociaux",
+      "years": "2022",
+      "mainTech": [],
+      "technologies": [
+        "Accueil de réfugiés ukrainiens",
+        "Tenue de chambres",
+        "Administration",
+        "Travail d'équipe"
+      ]
+    },
+    {
+      "company": "Unité mobile de premeirs secours",
+      "title": "Médiateur lutte anti-covid",
+      "years": "2021-2022",
+      "mainTech": [],
+      "technologies": [
+        "Dépistage",
+        "Vaccination",
+        "Médiation",
+        "Travail d'équipe",
+        "Administration",
+        "Logistique"
+      ]
+    },
+    {
+      "company": "École primaire Victor Hugo",
+      "title": "Professeur stagiaire",
+      "years": "2020",
+      "mainTech": [],
+      "technologies": [
+        "Pédagogie",
+        "Enseignement",
+        "Travail auprès d'enfants"
+      ]
+    },
+    {
+      "company": "Carrefour",
+      "title": "Caissier",
+      "years": "2016-2019",
+      "mainTech": [],
+      "technologies": [
+        "Passage d'articles",
+        "Inventaires",
+        "Mise en rayon",
+        "Service client"
+      ]
+    },
+    {
+      "company": "McDonald's",
+      "title": "Équipier polyvalent",
+      "years": "2014",
+      "mainTech": [],
+      "technologies": [
+        "Cuisine",
+        "Prise de commande",
+        "Entretien ménager"
+      ]
     }
   ]
 }

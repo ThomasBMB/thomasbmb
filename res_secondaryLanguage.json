@@ -113,6 +113,81 @@
         "GitHub",
         "Wakelet"
       ]
+    },
+    {
+      "company": "Le Son Vert",
+      "title": "Musician Producer",
+      "years": "2016-2022",
+      "mainTech": [],
+      "technologies": [
+        "Composition",
+        "Live Performances",
+        "Music Video Production",
+        "Ableton",
+        "Premiere Pro",
+        "Studio One",
+        "Cubase"
+      ]
+    },
+    {
+      "company": "Coallia",
+      "title": "Social Services",
+      "years": "2022",
+      "mainTech": [],
+      "technologies": [
+        "Reception of Ukrainian Refugees",
+        "Room Maintenance",
+        "Administration",
+        "Teamwork"
+      ]
+    },
+    {
+      "company": "Unité mobile de premiers secours",
+      "title": "Covid Mediation Specialist",
+      "years": "2021-2022",
+      "mainTech": [],
+      "technologies": [
+        "Testing",
+        "Vaccination",
+        "Mediation",
+        "Teamwork",
+        "Administration",
+        "Logistics"
+      ]
+    },
+    {
+      "company": "Victor Hugo Primary School",
+      "title": "Trainee Teacher",
+      "years": "2020",
+      "mainTech": [],
+      "technologies": [
+        "Pedagogy",
+        "Teaching",
+        "Working with Children"
+      ]
+    },
+    {
+      "company": "Carrefour",
+      "title": "Cashier",
+      "years": "2016-2019",
+      "mainTech": [],
+      "technologies": [
+        "Scanning Items",
+        "Inventory Management",
+        "Shelf Stocking",
+        "Customer Service"
+      ]
+    },
+    {
+      "company": "McDonald's",
+      "title": "Crew Member",
+      "years": "2014",
+      "mainTech": [],
+      "technologies": [
+        "Cooking",
+        "Order Taking",
+        "Cleaning"
+      ]
     }
   ]
 }
