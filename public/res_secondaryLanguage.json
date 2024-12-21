@@ -90,6 +90,69 @@
           "name": "Lighthouse"
         }
       ]
+    },
+    {
+      "title": "Menu Maker by Qwenta",
+      "startDate": "2023",
+      "description": "Project management for a fictional restaurant business. Implementation of agile methods, informational monitoring, and a technical solution for the smooth running of the project.",
+      "images": [
+        "images/portfolio/qwenta/qwenta1.jpg",
+        "images/portfolio/qwenta/qwenta2.jpg",
+        "images/portfolio/qwenta/qwenta3.jpg",
+        "images/portfolio/qwenta/qwenta4.jpg"
+      ]
+    },
+    {
+      "title": "Architect Sophie Bluel",
+      "startDate": "2023",
+      "description": "Creation of a dynamic web page using JavaScript and communicating with an API. Setup of a login page for the administrator and a modal allowing the addition of new media.",
+      "images": [
+        "images/portfolio/sophie-bluel/sophie-bluel1.jpg",
+        "images/portfolio/sophie-bluel/sophie-bluel2.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/Portfolio-architecte-sophie-bluel",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-postman-plain",
+          "name": "Postman"
+        }
+      ]
+    },
+    {
+      "title": "Booki",
+      "startDate": "2022",
+      "description": "Page created solely with HTML and CSS to get familiar with web languages. Implementation of media queries to make it responsive.",
+      "images": [
+        "images/portfolio/booki/booki1.jpg",
+        "images/portfolio/booki/booki2.jpg"
+      ],
+      "url": "https://github.com/ThomasBMB/agence-booki",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
     }
   ],
   "experience": [
