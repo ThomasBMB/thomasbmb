@@ -92,6 +92,17 @@
       ]
     },
     {
+      "title": "Menu Maker by Qwenta",
+      "startDate": "2023",
+      "description": "Gestion de projet pour une entreprise de restauration fictive. Mise en place de méthodes agiles, d'une veille informationelle et d'une solution technique pour le bon déroulement du projet.",
+      "images": [
+        "images/portfolio/booki/qwenta1.jpg",
+        "images/portfolio/booki/qwenta2.jpg",
+        "images/portfolio/booki/qwenta3.jpg",
+        "images/portfolio/booki/qwenta4.jpg"
+      ]
+    },
+    {
       "title": "Architecte Sophie Bluel",
       "startDate": "2023",
       "description": "Création d'une page web dynamique en utilisant JavaScript et en communiquant avec une API. Mise en place d'une page de connexion pour l'administrateur et d'une modale permettant l'ajout de nouveaux médias.",
@@ -128,7 +139,8 @@
       "startDate": "2022",
       "description": "Page uniquement en HTML et CSS pour se familiariser avec les langages web. Mise en place de media queries pour rendre le tout responsive.",
       "images": [
-        "images/portfolio/booki/booki1.jpg"
+        "images/portfolio/booki/booki1.jpg",
+        "images/portfolio/booki/booki2.jpg"
       ],
       "url": "https://github.com/ThomasBMB/agence-booki",
       "technologies": [
