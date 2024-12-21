@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-react experience-icon" aria-label="Icône représentant React"></i>}
+            icon={<i className="fas fa-hourglass-start mx-auto experience-icon"></i>}
             role="listitem"
             aria-labelledby={`timeline-title-${i}`}
             key={i}
